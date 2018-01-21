@@ -8,6 +8,8 @@ My name is **Maria Gracheva**. I study [**foreign languages and cross-cultural c
 
  ## A picture of my cat
  ![](https://i.imgur.com/3C7vYid.jpg)
+ 
+ I do hope the first thing one notices about this photo is *not* the word грыжа right above her head
 
 ##  Расписание на текущую неделю
 
