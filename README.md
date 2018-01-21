@@ -1,11 +1,13 @@
 # hw1
+## General information and a romantic backstory
+My name is Maria Gracheva. I study [foreign languages and cross-cultural communication](https://www.hse.ru/ba/lang/) here at HSE. Some years ago I accidentally read [a poem](http://adamlindsaygordon.org/works_theswimmer.htm) by Adam Lindsay Gordon and it's become pretty clear over time that nothing better will probably ever happen to me. The problem is, as I've found out, very few of his works were translated into Russian, which is really unfair to various parties, including, but not limited to, Adam Lindsay Gordon, the Russian language and me personally. So I had to become a translator. That's why I'm here. 
 
-## Оcновная информация
-Меня зовут Мария Грачева. Я учусь на программе бакалавриата [Иностранные языки и межкультурная коммуникация](https://www.hse.ru/ba/lang/).
+## Contact me
+* [email](mailto:magracheva@edu.hse.ru)
+* [telegram](t.me/britomart)
 
-## Контакты
-* [телеграм](t.me/britomart)
-* [почта](magracheva@edu.hse.ru)
+ ## A picture of my cat
+ ![](https://i.imgur.com/3C7vYid.jpg)
 
 ##  Расписание на текущую неделю
 
@@ -20,5 +22,4 @@
  |||||Искусственные языки (*лекция*)
  |||||Искусственные языки (*лекция*)
  
- ## Фотография моей кошки
- ![](https://i.imgur.com/3C7vYid.jpg)
+
