@@ -5,8 +5,9 @@ My name is **Maria Gracheva**. I study [**foreign languages and cross-cultural c
 ## Contact me
 * [email](mailto:magracheva@edu.hse.ru)
 * [telegram](t.me/britomart)
+* [vk page](https://vk.com/brynhild_nielsen)
 
- ## A picture of my cat
+ ## A picture of my cat (because she looks infinitely better than I do)
  ![](https://i.imgur.com/3C7vYid.jpg)
  
  I do hope the first thing one notices about this photo is *not* the word грыжа right above her head
